@@ -1,0 +1,8 @@
+
+git status
+git add .
+git commit -a -m "Update"
+git push
+
+zinmaungwabalt@gmail.com
+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
